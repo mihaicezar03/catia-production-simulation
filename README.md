@@ -87,7 +87,11 @@ The production flow concludes at an operator inspection and output area, with vi
 
 The following video records the modeled production environment and the DELMIA process simulation.
 
-**[Watch the production-process demonstration](catia-production-demo.mp4)**
+**
+
+https://github.com/user-attachments/assets/f1901ba2-88e9-4c96-9792-453b381a1657
+
+**
 
 ## Project files
 
