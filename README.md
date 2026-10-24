@@ -79,9 +79,6 @@ The production flow concludes at an operator inspection and output area, with vi
 
 ![CATIA DELMIA production cell layout](images/production-cell-overview.jpg)
 
-### Process simulation
-
-![Simulation operation view](images/production-process.jpg)
 
 ## Demonstration video
 
